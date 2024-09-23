@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clima UDB Investigacion</string>
+    <string name="weather_icon">WeatherIcon</string>
+    <string name="app">App Clima UDB </string>
+    <string name="descripcion_app">"Ingresa el nombre de tu ciudad para obtener información del clima en tiempo real.Consulta la temperatura, humedad y condiciones meteorológicas de forma fácil y rápida. Mantente informado sobre el estado del tiempo donde quieras. Busca tu ciudad y accede a los datos del clima al instante
+</string>
+    <string name="clima">Ejercicio 1 open weather map </string>
+    <string name="boton">Buscar</string>
+    <string name="boton2">Ejercicio 2 json placeholder </string>
+
+
+</resources>
