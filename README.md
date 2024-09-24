@@ -1,7 +1,7 @@
-# DSM-Investigacion 2 API
+# DSM Investigacion 2 API
  Investigacion 2 implementacion app con api JSONPlaceholder y OpenWeatherMap
  
-# 🚀 Nombre de la Aplicación
+## 🚀 Nombre de la Aplicación
  🌦️ Clima UDB
 
 ## Funcionalidades 🛠️
@@ -9,12 +9,12 @@
 Consulta el clima actual de cualquier ciudad utilizando la API de OpenWeatherMap.
 Muestra datos como la temperatura, la descripción del clima y más detalles.
 
-# Gestión de Posts 📝
+## Gestión de Posts 📝
 Permite crear nuevos posts con título, contenido y categoría.
 Los posts creados se muestran en la misma interfaz.
 Usa la API de JSONPlaceholder para simular la creación y almacenamiento de posts.
 
-##💻 Tecnologías Utilizadas:
+## 💻 Tecnologías Utilizadas:
 Retrofit y Gson: Para la gestión de solicitudes HTTP y la conversión automática de JSON a objetos Kotlin, lo que permite que la aplicación se conecte de forma eficiente con las APIs externas.
 
 RecyclerView: Para mostrar los posts en una lista desplazable y eficiente.
