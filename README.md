@@ -40,7 +40,7 @@ El código fuente de la aplicación está disponible en este repositorio. La apl
 - **IDE**:  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ## 📄 Documento PDF
-- [Documento](https://drive.google.com/file/d/1hatzyergVZUusvIkGpYpg-HGRY-g7r6U/view?usp=sharing)
+- [Documento](https://drive.google.com/file/d/1sxhf9dSCJocgD0mHl_-KO_I_N7B59vjk/view?usp=sharing)
   
 ## 🎥 Enlace del Video
 video demostrativo de la aplicación en el siguiente enlace:
