@@ -1,5 +1,7 @@
-# DSM Investigacion 2 API
- Investigacion 2 implementacion app con api JSONPlaceholder y OpenWeatherMap
+# Desarrollo de Software para Móviles DSM441 G01T
+
+ ## Investigacion 2:
+ implementacion app con api JSONPlaceholder y OpenWeatherMap
  
 ## 🚀 Nombre de la Aplicación
  🌦️ Clima UDB
