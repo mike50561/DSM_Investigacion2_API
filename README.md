@@ -44,7 +44,7 @@ El código fuente de la aplicación está disponible en este repositorio. La apl
   
 ## 🎥 Enlace del Video
 video demostrativo de la aplicación en el siguiente enlace:
-- [Video ]()
+- [Video ](https://youtu.be/WXrOkNe3SD0?si=dlRQvTNZS-vLb5iZ)
 
 ## 📱 Imagen del Icono: 
 - [icono](https://drive.google.com/file/d/1GUhPSI-bTn-qbRRPGvtjmejiu0D2ICqU/view?usp=sharing)
